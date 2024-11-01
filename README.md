@@ -14,6 +14,10 @@ or
 pip install --upgrade gradio
 ```
 
+<p align="center">
+  <img src="https://der-zerfleischer.de/images/github/svb3.jpeg" />
+</p>
+
 ## You need Python 3.10, 3.11 or 3.12!
 
 Start with Python
