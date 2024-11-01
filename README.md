@@ -1,4 +1,7 @@
 <div align=center><h1>Seitenverhältnis berechnen</h1></div>
+<p align="center">
+  <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a10229e3-12ae-46d7-a22a-b53bf81b76e9/original=true,quality=90/37638528.jpeg" />
+</p>
  
 ````
 pip install gradio
