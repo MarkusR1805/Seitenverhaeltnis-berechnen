@@ -5,7 +5,7 @@
 </p>
 
 ```sh
-pip install - requirements.txt
+pip install -r requirements.txt
 ```
 
 <p align="center">
