@@ -1,7 +1,7 @@
 <div align=center><h1>Seitenverhältnis berechnen</h1></div>
 <p align="center">
+<img src="https://der-zerfleischer.de/images/github/seitenverhaeltnis.jpeg" />
   <img src="https://prompt-base.der-zerfleischer.de/image/2024-08-18-075935_401101999385689.jpg" />
-  <img src="https://der-zerfleischer.de/images/github/svb2.png" />
 </p>
 
 ```sh
