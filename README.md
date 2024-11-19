@@ -5,13 +5,7 @@
 </p>
 
 ```sh
-pip install gradio
-```
-
-or
-
-```sh
-pip install --upgrade gradio
+pip install - requirements.txt
 ```
 
 <p align="center">
